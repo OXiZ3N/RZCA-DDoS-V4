@@ -40,7 +40,7 @@ ascii = r'''
 
 
 banner = r"""
-v1 """.replace('▓', '▀')
+v4 """.replace('▓', '▀')
 
 
 banner = Add.Add(ascii, banner, center=True)
