@@ -14,7 +14,7 @@ import os
  
 
 headers = {
-  "User-Agent": "Flyier DoS"
+  "User-Agent": "RZCA DoS"
 }
 
 osystem = sys.platform
